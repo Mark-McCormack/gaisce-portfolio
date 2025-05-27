@@ -1,5 +1,13 @@
 [
   {
+    "title": "Community Involvement [27-05-25]",
+    "url": "/posts/community-involvement/",
+    "categories": "Community Involvement",
+    "tags": "jekyll, chirpy",
+    "date": "2025-05-27 11:00:00 +0200",
+    "content": "As part of my community involvement, I have decided to devote my time into working on, updating and completing the website for CoderDojo Portarlington. This group holds a special place in my heart ..."
+  },
+  {
     "title": "Physical Recreation [14-05-25]",
     "url": "/posts/physical-recreation/",
     "categories": "Physical Recreation",
@@ -19,14 +27,6 @@
     "title": "Gold Residential [14-05-25]",
     "url": "/posts/gold-residential/",
     "categories": "Gold Residential",
-    "tags": "jekyll, chirpy",
-    "date": "2025-05-24 14:00:00 +0200",
-    "content": "This is my first blog post using the Chirpy theme!"
-  },
-  {
-    "title": "Community Involvement [14-05-25]",
-    "url": "/posts/community-involvement/",
-    "categories": "Community Involvement",
     "tags": "jekyll, chirpy",
     "date": "2025-05-24 14:00:00 +0200",
     "content": "This is my first blog post using the Chirpy theme!"

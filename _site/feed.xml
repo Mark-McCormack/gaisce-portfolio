@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Mark P. McCormack GAISCE Portfolio</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-05-25T16:36:22+02:00</updated>
+  <updated>2025-05-27T11:42:16+02:00</updated>
   <author>
     <name>Mark P. McCormack</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Community Involvement [27-05-25]</title>
+    <link href="http://localhost:4000/posts/community-involvement/" rel="alternate" type="text/html" title="Community Involvement [27-05-25]" />
+    <published>2025-05-27T11:00:00+02:00</published>
+  
+    <updated>2025-05-27T11:00:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/community-involvement/</id>
+    <content type="text/html" src="http://localhost:4000/posts/community-involvement/" />
+    <author>
+      <name>Mark P. McCormack</name>
+    </author>
+
+  
+    
+    <category term="Community Involvement" />
+    
+  
+
+  <summary>As part of my community involvement, I have decided to devote my time into working on, updating and completing the website for CoderDojo Portarlington. This group holds a special place in my heart as it is where I learnt to program, which has directly influenced my professional life today. As such, I wanted to give back and provide an easy-to-access portal for mentors, students and parents alik...</summary>
+
+  </entry>
 
   
   <entry>
@@ -83,30 +107,6 @@
   
     
     <category term="Gold Residential" />
-    
-  
-
-  <summary>This is my first blog post using the Chirpy theme!</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Community Involvement [14-05-25]</title>
-    <link href="http://localhost:4000/posts/community-involvement/" rel="alternate" type="text/html" title="Community Involvement [14-05-25]" />
-    <published>2025-05-24T14:00:00+02:00</published>
-  
-    <updated>2025-05-24T14:00:00+02:00</updated>
-  
-    <id>http://localhost:4000/posts/community-involvement/</id>
-    <content type="text/html" src="http://localhost:4000/posts/community-involvement/" />
-    <author>
-      <name>Mark P. McCormack</name>
-    </author>
-
-  
-    
-    <category term="Community Involvement" />
     
   
 
