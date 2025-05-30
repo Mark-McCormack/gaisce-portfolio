@@ -13,6 +13,8 @@ timezone:
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
+baseurl: "/newrepo" # important for project site
+url: "https://username.github.io"
 
 title: Mark P. McCormack GAISCE Portfolio # the main title
 
